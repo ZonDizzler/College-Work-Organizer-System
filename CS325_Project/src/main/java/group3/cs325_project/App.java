@@ -10,6 +10,15 @@ import java.io.IOException;
 
 /**
  * JavaFX App
+ * 
+ * 
+ * @author
+ * 
+ * Distler, John
+ * Goncalves Cesar
+ * Martinez, Juan
+ * Nemov, Daniel
+ * 
  */
 public class App extends Application {
 
@@ -32,6 +41,7 @@ public class App extends Application {
     }
 
     public static void main(String[] args) {
+                
         launch();
     }
 
