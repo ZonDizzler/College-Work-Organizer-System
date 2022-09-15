@@ -10,7 +10,7 @@
    <children>
       <Label text="Sign in or Sign Up" />
       <TextField promptText="User ID" />
-      <Button fx:id="primaryButton" onAction="#switchToSecondary" text="Nxt" />
+      <Button fx:id="primaryButton" onAction="#switchToSecondary" text="Next" />
    </children>
    <padding>
       <Insets bottom="20.0" left="20.0" right="20.0" top="20.0" />
